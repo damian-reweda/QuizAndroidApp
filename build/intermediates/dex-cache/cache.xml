@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_40b243030a2e570fcad521893605f5985dfbd622/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_eb0baa1504b669fb3b3a4dd3680f1e608c6a319c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="54c40e3ca25bc40d15d562aec73651210951e244">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3dde9bb6b277cbad5c5b6f99590330dac50f0cc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_82591134346843868821a1ed309dc987bef24ee5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_473252494001e6bf1d1eeed31f41e2fc4aa5b8b5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_28de43c96a67e444aef0e2d4da382f59530597d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_fd3c1f4543a63f1f7766aab9da1cab4fdbe47f7c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_8e95c8f59d369f634e2fba3be13e169e71e065ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_64192d74e65286b4bd5b22aa3d9ca98ba3faf054/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ddddd43fa0c6cf64de284fdf19a0a890d40fe3c">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ef33fcaab9c891cc68446bc061d435789b95d2f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.5_9263e3fd742df97ba73c580436ebdc3fda9f8598/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_7f0dec74605ba787688de4cabe2a3b79efad27cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_6d6f5bd2676d3de0f124757e81c369517bd57279/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.1.0_a170f5deb4838a783621a151a886237bb44b1250/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Damian/Documents/AndroidApplications/WPQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_c17c06ee0f336978ac5be990ee93dfb5fb651c22/classes.dex" />
+    </item>
+
+</items>

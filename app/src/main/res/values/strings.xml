@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="last_score">Twój ostatni wynik: </string>
+    <string name="solved">Quiz rozwiązany w: </string>
+    <string name="congratulations">Brawo!</string>
+    <string name="you_answered">Odpwiedziałeś poprawnie na:</string>
+    <string name="questions">pytań</string>
+    <string name="go_quiz">Przejdź do listy quizów</string>
+    <string name="do_quiz_again">Rozwiąż jeszcze raz</string>
+    <string name="lost_connection">Straciłeś połączenie!</string>
+    <string name="turn_wifi_or_mobile">Podłącz się z siecią, aby kontynuować...</string>
+</resources>

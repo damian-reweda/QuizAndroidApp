@@ -1,0 +1,4 @@
+<resources>
+    <item name="activity_masterdetail" type="layout">@layout/activity_twopane</item>
+    <bool name="portrait_only">false</bool>
+</resources>
